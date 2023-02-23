@@ -1,2 +1,3 @@
 Git Tekrar V1
 system out print ln()
+V2 çalışmalarım.
